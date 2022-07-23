@@ -71,7 +71,7 @@ header ul li{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(images/banner-background\ 1.png);
+  background-image: url(../images/banner-background\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -189,7 +189,7 @@ header ul li{
   justify-content: space-around;
   margin: auto;
   flex-wrap: wrap;
-  background-image: url(/resources/images/personal-background\ 1.png);
+  background-image: url(../images/personal-background\ 1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
